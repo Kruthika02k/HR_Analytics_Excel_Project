@@ -1,2 +1,2 @@
-# HR_Analytics_SQL_Project
+# HR_Analytics_Excel_roject
 Interactive HR Analytics Dashboard built in Microsoft Excel using PivotTables, PivotCharts, KPI cards, slicers, and business insights.
